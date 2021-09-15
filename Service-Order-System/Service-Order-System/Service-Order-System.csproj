@@ -5,4 +5,8 @@
     <RootNamespace>Service_Order_System</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.1.0" />
+  </ItemGroup>
+
 </Project>

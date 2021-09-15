@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Service-Order-System",
+    "\\Service-Order-System\\Service-Order-System",
+    "\\Service-Order-System\\Service-Order-System\\Controllers"
   ],
+  "SelectedNode": "\\Service-Order-System\\Service-Order-System\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
